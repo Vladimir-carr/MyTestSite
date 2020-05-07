@@ -1,0 +1,38 @@
+{
+  "1": {
+    "idproducts": 0,
+    "name": "Barsik",
+    "price": 1500,
+    "image": "Cat1.jpg"
+  },
+  "2": {
+    "idproducts": 0,
+    "name": "Grey",
+    "price": 1700,
+    "image": "Cat2.jpg"
+  },
+  "3": {
+    "idproducts": 0,
+    "name": "Murka",
+    "price": 2500,
+    "image": "Cat3.jpg"
+  },
+  "4": {
+    "idproducts": 0,
+    "name": "Lavash",
+    "price": 10800,
+    "image": "Cat4.jpg"
+  },
+  "5": {
+    "idproducts": 0,
+    "name": "Pushok",
+    "price": 3400,
+    "image": "Cat5.jpg"
+  },
+  "6": {
+    "idproducts": 0,
+    "name": "Boris",
+    "price": 1900,
+    "image": "Cat6.jpg"
+  }
+}
